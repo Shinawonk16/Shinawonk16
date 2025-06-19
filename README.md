@@ -32,7 +32,8 @@
 🚀 **[Crypto Wallet Integration – .NET Mining App (In Progress)]
 🔐 Working on secure wallet API integration in ASP.NET Core backend.
 
-🛒 **[Full-Stack E-Commerce App] Backend:(https://github.com/Shinawonk16/MyPersonalProject.git)**  
+🛒 **[Full-Stack E-Commerce App] Backend:(https://github.com/Shinawonk16/MyPersonalProject.git)
+Frontend(https://github.com/Shinawonk16/MyPersonalProjectFrontEnd.git)**  
 🧩 Developed complete frontend and backend for an e-commerce platform.  
 💳 Integrated secure payment and transaction processing system.  
 🛠️ Tech Stack: ASP.NET Core, Razor Pages, SQL Server, HTML/CSS, JavaScript  
